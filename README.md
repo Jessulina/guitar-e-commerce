@@ -1,7 +1,7 @@
 # guitar-e-commerce
 
 Este proyecto es una aplicación de comercio electrónico para guitarras, creada utilizando Vue.js. 
-Este proyecto lo desarrolle en curso de Vue.js de Juan Pablo de La Torre Valdez de Udemy.
+Este proyecto lo desarrolle en el curso de Vue.js de Juan Pablo de La Torre Valdez de Udemy.
 El objetivo principal del proyecto fue profundizar en el uso de frameworks modernos y en la arquitectura de una aplicación web compleja.
 
 ## Lo que aprendí:
