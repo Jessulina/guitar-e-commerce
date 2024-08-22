@@ -6,8 +6,6 @@ El objetivo principal del proyecto fue profundizar en el uso de frameworks moder
 
 ## Lo que aprendí:
 - Implementación de componentes reutilizables en Vue.js.
-- Gestión de estado usando Vuex.
-- Enrutamiento con Vue Router.
 - Uso de LocalStorage.
 - Configuración de proyectos usando Vite para un desarrollo rápido.
 
